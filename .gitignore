@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+client_secrets.json
+data/
+uploaded_videos/
+to_upload/
+Fooocus/
