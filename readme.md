@@ -174,10 +174,5 @@ HF_TOKEN=your_huggingface_token
 
 Arpan Sharma
 
-GitHub: https://github.com/Arpansharma7
-
 LinkedIn: https://www.linkedin.com/in/arpan-sharma-aiml/
 
-## License
-
-This project is licensed under the MIT License.
