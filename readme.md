@@ -132,28 +132,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Arpansharma7/auto_video_gen_ai.git
-cd auto_video_gen_ai
 ```
 
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate it:
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Linux / macOS
-
-```bash
-source venv/bin/activate
-```
+Create a virtual environment
 
 Install dependencies:
 
@@ -170,35 +151,15 @@ GEMINI_API_KEY=your_gemini_api_key
 HF_TOKEN=your_huggingface_token
 ```
 
-Never commit real credentials to GitHub.
-
 ## Requirements
 
 - Python 3.10+
 - FFmpeg
 - Google Gemini API Key
-- Fooocus
+- Fooocus 
 - Hugging Face Access Token
 - espeak-ng (for TTS)
 
-## Output
-
-The pipeline generates a fully assembled vertical video suitable for:
-
-- YouTube Shorts
-- TikTok
-- Instagram Reels
-- Facebook Reels
-
-## Example Use Cases
-
-- History shorts
-- Mythology stories
-- Finance facts
-- Tech explainers
-- Motivational content
-- Educational content
-- Viral storytelling videos
 
 ## Future Improvements
 
